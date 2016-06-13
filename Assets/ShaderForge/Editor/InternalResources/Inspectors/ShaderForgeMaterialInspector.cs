@@ -99,11 +99,11 @@ public class ShaderForgeMaterialInspector : MaterialEditor {
 			}
 
 			Material mat = target as Material;
-			
 
-			mat.globalIlluminationFlags = (MaterialGlobalIlluminationFlags)EditorGUILayout.EnumPopup( "Emission GI", mat.globalIlluminationFlags);
-			
-			GUILayout.Space(6);
+#if !UNITY_4_6_8
+            mat.globalIlluminationFlags = (MaterialGlobalIlluminationFlags)EditorGUILayout.EnumPopup( "Emission GI", mat.globalIlluminationFlags);
+#endif
+            GUILayout.Space(6);
 
 
 

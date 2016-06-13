@@ -42,12 +42,12 @@ public class F3DShotgun : MonoBehaviour
     }    
     #else
     // Particle collision events
-    private ParticleCollisionEvent[] collisionEvents = new ParticleCollisionEvent[16];
+    //private ParticleCollisionEvent[] collisionEvents = new ParticleCollisionEvent[16];
 
     // On particle collision
     void OnParticleCollision(GameObject other)
     {
-        int safeLength = GetComponent<ParticleSystem>().GetSafeCollisionEventSize();
+        /*int safeLength = GetComponent<ParticleSystem>().GetSafeCollisionEventSize();
 
         if (collisionEvents.Length < safeLength)
             collisionEvents = new ParticleCollisionEvent[safeLength];
@@ -69,7 +69,7 @@ public class F3DShotgun : MonoBehaviour
             }
 
             i++;
-        }
+        }*/
     }  
     #endif
 }

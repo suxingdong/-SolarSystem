@@ -89,9 +89,12 @@ public class DataManager : UnityAllSceneSingleton<DataManager>,IMessageObject
 		temppath = path + "txt.assetbundle";
 		bundle = new WWW(temppath);
 		yield return bundle;
-		//TextAsset asset = bundle.assetBundle.Load("string",  typeof(TextAsset)) as TextAsset;
-		TextAsset asset = bundle.assetBundle.LoadAsset("string") as TextAsset;
-		StringReader reader = new StringReader (asset.text);
+#if UNITY_4_6_8
+		TextAsset asset = bundle.assetBundle.Load("string",  typeof(TextAsset)) as TextAsset;
+#else
+        TextAsset asset = bundle.assetBundle.LoadAsset("string") as TextAsset;
+#endif
+        StringReader reader = new StringReader (asset.text);
 		string line = reader.ReadLine();
 		while (line != null) 
 		{

@@ -1006,8 +1006,11 @@ public class Laserline : MonoBehaviour {
             rayLineRenderer.transform.parent = transform;
             lrends[n] = rayLineRenderer.AddComponent<LineRenderer>();
             lrends[n].material = arcs[n].material;
-            //lrends[n].castShadows = false;
+#if UNITY_4_6_8
+            lrends[n].castShadows = false;
+#else
             lrends[n].shadowCastingMode = ShadowCastingMode.Off;
+#endif
             lrends[n].receiveShadows = false;
 
             //texture setup
