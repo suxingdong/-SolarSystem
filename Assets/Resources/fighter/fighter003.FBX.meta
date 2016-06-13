@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 28ebefcd7229e7d47836645dfc25b449
+timeCreated: 1458578346
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bombarde
+    100002: bombdoo2
+    100004: bombdoor
+    100006: Bottomgu
+    100008: Bottompa
+    100010: Bottomtu
+    100012: Cockpitc
+    100014: 'estabilizer '
+    100016: //RootNode
+    100018: Front gun
+    100020: Front turret
+    100022: fuselage
+    100024: Left wheel
+    100026: Leftbomb
+    100028: 'Leftbomb '
+    100030: Leftesta
+    100032: Leftfla3
+    100034: Leftflap
+    100036: Leftflap 1
+    100038: Leftnose
+    100040: Leftrudd
+    100042: Leftrudd 1
+    100044: Leftwai
+    100046: Leftwais
+    100048: nosedoor
+    100050: Nosewhe
+    100052: Prope4
+    100054: Propel2
+    100056: Propel5
+    100058: Propell
+    100060: Reardoor
+    100062: Rightfl2
+    100064: Rightfl3
+    100066: Rightfla
+    100068: rudder1
+    100070: rudder2
+    100072: Tail gun
+    100074: Tail turret
+    100076: Top gun
+    100078: Top turret
+    100080: waistdoo
+    100082: waistgun
+    100084: wheel
+    400000: Bombarde
+    400002: bombdoo2
+    400004: bombdoor
+    400006: Bottomgu
+    400008: Bottompa
+    400010: Bottomtu
+    400012: Cockpitc
+    400014: 'estabilizer '
+    400016: //RootNode
+    400018: Front gun
+    400020: Front turret
+    400022: fuselage
+    400024: Left wheel
+    400026: Leftbomb
+    400028: 'Leftbomb '
+    400030: Leftesta
+    400032: Leftfla3
+    400034: Leftflap
+    400036: Leftflap 1
+    400038: Leftnose
+    400040: Leftrudd
+    400042: Leftrudd 1
+    400044: Leftwai
+    400046: Leftwais
+    400048: nosedoor
+    400050: Nosewhe
+    400052: Prope4
+    400054: Propel2
+    400056: Propel5
+    400058: Propell
+    400060: Reardoor
+    400062: Rightfl2
+    400064: Rightfl3
+    400066: Rightfla
+    400068: rudder1
+    400070: rudder2
+    400072: Tail gun
+    400074: Tail turret
+    400076: Top gun
+    400078: Top turret
+    400080: waistdoo
+    400082: waistgun
+    400084: wheel
+    2300000: Bombarde
+    2300002: bombdoo2
+    2300004: bombdoor
+    2300006: Bottomgu
+    2300008: Bottompa
+    2300010: Bottomtu
+    2300012: Cockpitc
+    2300014: 'estabilizer '
+    2300016: Front gun
+    2300018: Front turret
+    2300020: fuselage
+    2300022: Left wheel
+    2300024: Leftbomb
+    2300026: 'Leftbomb '
+    2300028: Leftesta
+    2300030: Leftfla3
+    2300032: Leftflap
+    2300034: Leftflap 1
+    2300036: Leftnose
+    2300038: Leftrudd
+    2300040: Leftrudd 1
+    2300042: Leftwai
+    2300044: Leftwais
+    2300046: nosedoor
+    2300048: Nosewhe
+    2300050: Prope4
+    2300052: Propel2
+    2300054: Propel5
+    2300056: Propell
+    2300058: Reardoor
+    2300060: Rightfl2
+    2300062: Rightfl3
+    2300064: Rightfla
+    2300066: rudder1
+    2300068: rudder2
+    2300070: Tail gun
+    2300072: Tail turret
+    2300074: Top gun
+    2300076: Top turret
+    2300078: waistdoo
+    2300080: waistgun
+    2300082: wheel
+    3300000: Bombarde
+    3300002: bombdoo2
+    3300004: bombdoor
+    3300006: Bottomgu
+    3300008: Bottompa
+    3300010: Bottomtu
+    3300012: Cockpitc
+    3300014: 'estabilizer '
+    3300016: Front gun
+    3300018: Front turret
+    3300020: fuselage
+    3300022: Left wheel
+    3300024: Leftbomb
+    3300026: 'Leftbomb '
+    3300028: Leftesta
+    3300030: Leftfla3
+    3300032: Leftflap
+    3300034: Leftflap 1
+    3300036: Leftnose
+    3300038: Leftrudd
+    3300040: Leftrudd 1
+    3300042: Leftwai
+    3300044: Leftwais
+    3300046: nosedoor
+    3300048: Nosewhe
+    3300050: Prope4
+    3300052: Propel2
+    3300054: Propel5
+    3300056: Propell
+    3300058: Reardoor
+    3300060: Rightfl2
+    3300062: Rightfl3
+    3300064: Rightfla
+    3300066: rudder1
+    3300068: rudder2
+    3300070: Tail gun
+    3300072: Tail turret
+    3300074: Top gun
+    3300076: Top turret
+    3300078: waistdoo
+    3300080: waistgun
+    3300082: wheel
+    4300000: Bombarde
+    4300002: Bottomgu
+    4300004: Bottompa
+    4300006: Bottomtu
+    4300008: Cockpitc
+    4300010: Front gun
+    4300012: Front turret
+    4300014: fuselage
+    4300016: Leftbomb
+    4300018: 'Leftbomb '
+    4300020: Leftesta
+    4300022: Leftflap
+    4300024: Leftflap
+    4300026: Leftfla3
+    4300028: Leftnose
+    4300030: Leftrudd
+    4300032: Leftrudd
+    4300034: Leftwais
+    4300036: Leftwai
+    4300038: Left wheel
+    4300040: Nosewhe
+    4300042: Propell
+    4300044: Prope4
+    4300046: Propel5
+    4300048: Propel2
+    4300050: Reardoor
+    4300052: bombdoor
+    4300054: bombdoo2
+    4300056: 'estabilizer '
+    4300058: Rightfla
+    4300060: Rightfl2
+    4300062: Rightfl3
+    4300064: nosedoor
+    4300066: rudder1
+    4300068: rudder2
+    4300070: waistdoo
+    4300072: waistgun
+    4300074: wheel
+    4300076: Tail gun
+    4300078: Tail turret
+    4300080: Top gun
+    4300082: Top turret
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

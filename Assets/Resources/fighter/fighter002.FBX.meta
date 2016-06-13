@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: b0cd7cc47b1c93040a95973c06c8c9a1
+timeCreated: 1458577827
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AR234
+    100002: ar23bom
+    100004: ar23cabi
+    100006: AR23CLOC
+    100008: AR23DOO1
+    100010: ar23door
+    100012: ar23engi
+    100014: ar23flyL
+    100016: ar23flyR
+    100018: ar23horL
+    100020: ar23horR
+    100022: ar23meta
+    100024: ar23vert
+    100026: ar23whee
+    100028: ar23wind
+    100030: Dummy01
+    100032: //RootNode
+    100034: window01
+    400000: AR234
+    400002: ar23bom
+    400004: ar23cabi
+    400006: AR23CLOC
+    400008: AR23DOO1
+    400010: ar23door
+    400012: ar23engi
+    400014: ar23flyL
+    400016: ar23flyR
+    400018: ar23horL
+    400020: ar23horR
+    400022: ar23meta
+    400024: ar23vert
+    400026: ar23whee
+    400028: ar23wind
+    400030: Dummy01
+    400032: //RootNode
+    400034: window01
+    2300000: AR234
+    2300002: ar23bom
+    2300004: ar23cabi
+    2300006: AR23CLOC
+    2300008: AR23DOO1
+    2300010: ar23door
+    2300012: ar23engi
+    2300014: ar23flyL
+    2300016: ar23flyR
+    2300018: ar23horL
+    2300020: ar23horR
+    2300022: ar23meta
+    2300024: ar23vert
+    2300026: ar23whee
+    2300028: ar23wind
+    2300030: window01
+    3300000: AR234
+    3300002: ar23bom
+    3300004: ar23cabi
+    3300006: AR23CLOC
+    3300008: AR23DOO1
+    3300010: ar23door
+    3300012: ar23engi
+    3300014: ar23flyL
+    3300016: ar23flyR
+    3300018: ar23horL
+    3300020: ar23horR
+    3300022: ar23meta
+    3300024: ar23vert
+    3300026: ar23whee
+    3300028: ar23wind
+    3300030: window01
+    4300000: window01
+    4300002: ar23wind
+    4300004: ar23whee
+    4300006: ar23vert
+    4300008: ar23meta
+    4300010: ar23horR
+    4300012: ar23horL
+    4300014: ar23flyR
+    4300016: ar23flyL
+    4300018: ar23engi
+    4300020: ar23door
+    4300022: AR23DOO1
+    4300024: AR23CLOC
+    4300026: ar23cabi
+    4300028: ar23bom
+    4300030: AR234
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

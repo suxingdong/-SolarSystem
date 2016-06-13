@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 7355e296eb34c8249ada2a98bb923df7
+timeCreated: 1460209166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: COWLING
+    100002: ENGINE
+    100004: //RootNode
+    100006: GB_BODY
+    100008: GLASS
+    100010: LAILERON
+    100012: PROPELER
+    100014: RAILERON
+    100016: RUDDER
+    100018: SEAT
+    100020: STRUCT.
+    100022: WHEEL1
+    100024: WHEEL2
+    400000: COWLING
+    400002: ENGINE
+    400004: //RootNode
+    400006: GB_BODY
+    400008: GLASS
+    400010: LAILERON
+    400012: PROPELER
+    400014: RAILERON
+    400016: RUDDER
+    400018: SEAT
+    400020: STRUCT.
+    400022: WHEEL1
+    400024: WHEEL2
+    2300000: COWLING
+    2300002: ENGINE
+    2300004: GB_BODY
+    2300006: GLASS
+    2300008: LAILERON
+    2300010: PROPELER
+    2300012: RAILERON
+    2300014: RUDDER
+    2300016: SEAT
+    2300018: STRUCT.
+    2300020: WHEEL1
+    2300022: WHEEL2
+    3300000: COWLING
+    3300002: ENGINE
+    3300004: GB_BODY
+    3300006: GLASS
+    3300008: LAILERON
+    3300010: PROPELER
+    3300012: RAILERON
+    3300014: RUDDER
+    3300016: SEAT
+    3300018: STRUCT.
+    3300020: WHEEL1
+    3300022: WHEEL2
+    4300000: ENGINE
+    4300002: COWLING
+    4300004: GB_BODY
+    4300006: GLASS
+    4300008: STRUCT.
+    4300010: LAILERON
+    4300012: PROPELER
+    4300014: RAILERON
+    4300016: RUDDER
+    4300018: SEAT
+    4300020: WHEEL1
+    4300022: WHEEL2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
