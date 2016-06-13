@@ -51,7 +51,7 @@ public class GlobalManager : UnityAllSceneSingleton<GlobalManager>
 	void OnGUI() 
 	{
 		GUI.skin.label.normal.textColor =new  Color( 255,255, 255, 1.0f );
-		GUI.Label(new Rect(0, 10, 200, 200), "FPS:" + (f_Fps).ToString("f2"));
+		GUI.Label(new Rect(0, 50, 200, 300), "FPS:" + (f_Fps).ToString("f2"));
 		string vertsdisplay = verts.ToString ("#,##0 verts");
 		GUILayout.Label(vertsdisplay);
 		string trisdisplay = tris.ToString ("#,##0 tris");
