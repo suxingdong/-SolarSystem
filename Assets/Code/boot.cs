@@ -2,9 +2,7 @@
 using System.Collections;
 using engine;
 public class boot : MonoBehaviour {
-
     
-
     void Awake()
     {
         DontDestroyOnLoad(this.gameObject);
